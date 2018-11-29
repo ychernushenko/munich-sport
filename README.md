@@ -111,7 +111,8 @@ buggyFit Oberföhring - Cosimastraße
 buggyFit Oberföhring - Fideliostraße  
 buggyFit Oberföhring - Haimonstraße  
 in balance  
-## Yoga/ PilatesKOPF AUS DEM SAND  
+## Yoga and Pilates
+KOPF AUS DEM SAND  
 Moving Moments  
 Yogacycle by Eva - Salsa Cuba Club  
 Academia Arapua  
@@ -251,7 +252,9 @@ YogicLoveAffair-Yoga Garden Munich
 Zentrum für Orientalischen Tanz  
 ars movendi - medic fitness  
 in balance  
-ta.mi yogaraum## Swimming and water SportsAquariUSH  
+ta.mi yogaraum
+## Swimming and water Sports
+AquariUSH  
 Bad Forstenrieder Park Hallenbad  
 Bad Georgenschwaige Freibad  
 Bad Giesing-Harlaching Hallenbad  
@@ -277,7 +280,9 @@ Schyrenbad Freibad
 Südbad Hallenbad  
 Ungererbad Freibad  
 Westbad Freibad  
-Westbad Hallenbad mit Sauna## Dance and martial artsACF self defense & stress reduction - Geisenhausenerstr.  
+Westbad Hallenbad mit Sauna
+## Dance and martial arts
+ACF self defense & stress reduction - Geisenhausenerstr.  
 ACF self defense & stress reduction - Marsstr.  
 Academia Arapua  
 Ballettschule Esther  
@@ -359,7 +364,9 @@ Zentrum für Orientalischen Tanz
 Zumba by Daniela Dallinger Neuhausen  
 Zumba by Daniela Dallinger am Olympiapark  
 Zumba by Daniela Dallinger in der Altstadt  
-in balance## Team sports and racketBeachZeit  
+in balance
+## Team sports and racket
+BeachZeit  
 Beacharena  
 Brauneck Bergbahn  
 Bubble Football München  
@@ -411,7 +418,8 @@ Wallbergbahn
 ars movendi - medic fitness  
 beach38° – Community Sports  
 buggyFit Bogenhausen - Denninger Anger  
-buggyFit Bogenhausen - Spielplatz## Functional and CrossFit  
+buggyFit Bogenhausen - Spielplatz
+## Functional and CrossFit  
 Personal Training Damir  
 Across Munich - Lerchenfeldstraße  
 Bi PHiT Small Group Fitness  
@@ -485,13 +493,15 @@ ars movendi - medic fitness
 attrACTIVE - Outdoor  
 be:vit  
 in balance  
-magicBody## Climbing and bolduing  
+magicBody
+## Climbing and bolduing  
 Boulderwelt West  
 Brauneck Bergbahn  
 High-east Kletterhalle  
 Kletterinsel Fürstenfeld  
 Taubenstein-Kabinenbahn Spitzingsee  
-einstein Boulderhalle München## EMS and Vibration Training25 Minutes München  
+einstein Boulderhalle München
+## EMS and Vibration Training25 Minutes München  
 Body Kult  
 Coachyfy  
 Coachyfy - Baldham  
@@ -508,7 +518,8 @@ be:vit
 fitbox Fürstenfeldbruck Zentrum  
 magicBody  
 shape2style  
-## MassageAtemraum - Praxis & Studio Ygia  
+## Massage
+Atemraum - Praxis & Studio Ygia  
 Corpovitalis  
 Deevari Spa  
 Doris Amann Massage  
@@ -527,7 +538,8 @@ Touch for Health
 WellFItBalance - Body & Soul  
 WellFitBalance  
 Zentrum Massage - Herzog & Schedler  
-## Relaxation and saunaACF self defense & stress reduction - Marsstr.  
+## Relaxation and sauna
+ACF self defense & stress reduction - Marsstr.  
 Cardio Fitness Club Starnberg  
 Chi Loft  
 Die Sport Insel Taufkirchen  
